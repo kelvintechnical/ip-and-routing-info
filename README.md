@@ -1,11 +1,11 @@
 # Lab: Display IPv4 Addresses and the Routing Table with `ip`
 
-**Series:** linux-ops-mastery — RHCSA Networking
-**Subjects covered:** `iproute2` replacement for legacy `ifconfig`, `ip addr show`, interface states and flags, secondary addresses, `ip route show`, default routes, `ip -brief`, scope, `proto kernel` vs `proto dhcp` vs `proto static`, reading `metric`
-**Career arcs covered:** RHCSA (verify NM changes quickly), RHCE (facts modules echo the same fields), SRE ("why is traffic leaving the wrong NIC?"), DevOps (container host multi-homing), AI/MLOps (separate storage vs training plane IPs)
-**Prerequisite:** Lab 31 (static IPv4) or any working DHCP VM — you need at least one configured interface
-**Time Estimate:** 30 to 40 minutes
-**Difficulty arc:** Task 1 foundation · 2–3 `ip addr` deep read · 4–5 `ip route` semantics · 6 exam-realistic capstone
+- **Series:** linux-ops-mastery — RHCSA Networking
+- **Subjects covered:** `iproute2` replacement for legacy `ifconfig`, `ip addr show`, interface states and flags, secondary addresses, `ip route show`, default routes, `ip -brief`, scope, `proto kernel` vs `proto dhcp` vs `proto static`, reading `metric`
+- **Career arcs covered:** RHCSA (verify NM changes quickly), RHCE (facts modules echo the same fields), SRE ("why is traffic leaving the wrong NIC?"), DevOps (container host multi-homing), AI/MLOps (separate storage vs training plane IPs)
+- **Prerequisite:** Lab 31 (static IPv4) or any working DHCP VM — you need at least one configured interface
+- **Time Estimate:** 30 to 40 minutes
+- **Difficulty arc:** Task 1 foundation · 2–3 `ip addr` deep read · 4–5 `ip route` semantics · 6 exam-realistic capstone
 
 ---
 
